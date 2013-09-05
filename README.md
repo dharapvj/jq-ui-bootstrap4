@@ -4,7 +4,7 @@ New project organization attempt of JQuery UI Bootstrap project. Will attempt to
 
 ## Planned features:
 
- * Will have a dedicated gh-pages branch and master branches. 
+ [x] Will have a dedicated gh-pages branch and master branches. 
  * Master branch will hold the "source" of the css files only, while the gh-pages branch will have the example pages.
  * There will also be a distribution in form of zip file with only css files..
 
