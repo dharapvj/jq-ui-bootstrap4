@@ -1,0 +1,53 @@
+{
+  "name": "jqueryui-bootstrap-theme",
+  "description": "This is a drop in JqueryUI theme to match the look of bootstrap 4. Project also allows you to customize the look and feel completely by replacing the bootstrap scss variables to match JQueryUI to your custom bootstrap theme.",
+  "version": "0.0.1-alpha",
+  "keywords": [
+    "css",
+    "sass",
+    "jqueryui",
+    "theme",
+    "configurable",
+    "framework",
+    "web"
+  ],
+  "author": "Vijay Dharap",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dharapvj/jq-ui-makeover.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-autoprefixer": "~2.2.0",
+    "grunt-banner": "~0.3.1",
+    "grunt-build-control": "~0.2.0",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-compress": "~0.13.0",
+    "grunt-contrib-csslint": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.12.2",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-csscomb": "~3.0.0",
+    "grunt-exec": "~0.4.6",
+    "grunt-html": "~4.0.1",
+    "grunt-postcss": "^0.3.0",
+    "grunt-sass": "^1.0.0",
+    "grunt-scss-lint": "^0.3.4",
+	"load-grunt-tasks": "~3.1.0",
+    "time-grunt": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.1"
+  },
+  "files": [
+    "dist",
+    "grunt/*.json",
+    "scss/**/*.scss",
+    "Gruntfile.js",
+    "LICENSE"
+  ]
+}
