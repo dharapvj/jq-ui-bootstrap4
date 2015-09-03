@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dharapvj/jq-ui-makeover.git"
+    "url": "https://github.com/dharapvj/jq-ui-bootstrap4.git"
   },
   "license": "MIT",
   "devDependencies": {

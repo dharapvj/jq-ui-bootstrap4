@@ -1,13 +1,9 @@
-/*!
- * jQuery UI Framework @VERSION
- * http://jqueryui.com
- *
- * Copyright jQuery Foundation and other contributors
- * Released under the MIT license.
- * http://jquery.org/license
- *
- * http://api.jqueryui.com/category/theming/
- */
+//
+// The Core integrator file for all the Jquery UI files.
+//
+
+@import "jq-ui-bootstrap-mixin-adapter";
+@import "jq-ui-bootstrap-variable-adapter";
 @import "core";
 
 @import "accordion";
